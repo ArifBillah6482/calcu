@@ -8,6 +8,7 @@
     border: 1px solid blue;
     border-radius: 10px;
     background-color: rgb(241, 236, 236);
+    display: block;
 }
 .btn-info {
     padding: 15px 20px;
